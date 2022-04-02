@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/digital-bank-nova/static/css/main.4427e80f.chunk.css",
+    "main.js": "/digital-bank-nova/static/js/main.d5b7c44d.chunk.js",
+    "main.js.map": "/digital-bank-nova/static/js/main.d5b7c44d.chunk.js.map",
+    "runtime-main.js": "/digital-bank-nova/static/js/runtime-main.ad88cae2.js",
+    "runtime-main.js.map": "/digital-bank-nova/static/js/runtime-main.ad88cae2.js.map",
+    "static/js/2.0034ecaa.chunk.js": "/digital-bank-nova/static/js/2.0034ecaa.chunk.js",
+    "static/js/2.0034ecaa.chunk.js.map": "/digital-bank-nova/static/js/2.0034ecaa.chunk.js.map",
+    "index.html": "/digital-bank-nova/index.html",
+    "static/css/main.4427e80f.chunk.css.map": "/digital-bank-nova/static/css/main.4427e80f.chunk.css.map",
+    "static/js/2.0034ecaa.chunk.js.LICENSE.txt": "/digital-bank-nova/static/js/2.0034ecaa.chunk.js.LICENSE.txt",
+    "static/media/icon-close-menu.32169d31.svg": "/digital-bank-nova/static/media/icon-close-menu.32169d31.svg",
+    "static/media/icon-hamburger.4df66fd4.svg": "/digital-bank-nova/static/media/icon-hamburger.4df66fd4.svg",
+    "static/media/kisspng-online-banking-business-vector-graphics-mobile-ban-5bf079c28270c4.3890355015424864665343.2927eb31.png": "/digital-bank-nova/static/media/kisspng-online-banking-business-vector-graphics-mobile-ban-5bf079c28270c4.3890355015424864665343.2927eb31.png",
+    "static/media/—Pngtree—digital marketing bulb element_2079819.9cadca61.png": "/digital-bank-nova/static/media/—Pngtree—digital marketing bulb element_2079819.9cadca61.png",
+    "static/media/—Pngtree—mobile payment digital marketing online_5253198.f56b8829.png": "/digital-bank-nova/static/media/—Pngtree—mobile payment digital marketing online_5253198.f56b8829.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad88cae2.js",
+    "static/js/2.0034ecaa.chunk.js",
+    "static/css/main.4427e80f.chunk.css",
+    "static/js/main.d5b7c44d.chunk.js"
+  ]
+}
